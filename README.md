@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=whatsappvincible&label=eldians...%20&color=B7A77B&style=flat
+https://komarev.com/ghpvc/?username=whatsappvincible&label=eldians...%20&color=B7A77B
 <!--
 **whatsappvincible/whatsappvincible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
