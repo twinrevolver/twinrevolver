@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whatsappvincible&label=snake_eaters%20&color=48696e&style=flat"  </p>
 <p align="center">
   
-<img src="https://files.catbox.moe/ss3ahi.gif">
+<img src="https://files.catbox.moe/n66ej9.gif">
 <h6 align="center">
 " one must die and one must live ,
   <h6 align="center">
