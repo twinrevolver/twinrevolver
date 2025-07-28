@@ -1,7 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whatsappvincible&label=snakes%20&color=3d9422&style=flat"  </p>
 <p align="center">
   
-<img src="https://files.catbox.moe/hlk1vv.png" />
+<img src="https://files.catbox.moe/hlk1vv.png" /> 
+<h6 align="center">
+<img src="https://files.catbox.moe/vrxbj9.png" />
 <h6 align="center">
 dihlings the best
 
