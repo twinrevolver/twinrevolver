@@ -3,7 +3,7 @@
  
 <h6 align="center"> <img src="https://github.com/user-attachments/assets/20ff4ae2-bd96-4cbc-b147-6fd5ec2188c6" width="400" height="400" />
 <h6 align="center">
-` Suffer ,
+` suffer ,
   <h6 align="center" >
     rue the day you were born. `
     <h6 align="center">
